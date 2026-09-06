@@ -1,0 +1,14 @@
+{
+  "name": "bothost-miniapp",
+  "version": "1.0.0",
+  "description": "Telegram Mini App на BotHost",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
